@@ -1,0 +1,13 @@
+[
+  {
+    "id": "log_1783039020193_360p0",
+    "companyId": "company_1783039020191_p7jpz",
+    "userId": "user_1783039020191_2v52k",
+    "userName": "Test User",
+    "action": "Cadastro Empresa",
+    "details": "Empresa Test Company e usuário administrador cadastrados.",
+    "ip": "127.0.0.1",
+    "device": "node",
+    "createdAt": "2026-07-03T00:37:00.193Z"
+  }
+]

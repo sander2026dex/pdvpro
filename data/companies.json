@@ -1,0 +1,83 @@
+[
+  {
+    "id": "demo_company_123",
+    "name": "Demo Comercial Ltda",
+    "ownerEmail": "demo@erp.com",
+    "cnpj": "12.345.678/0001-90",
+    "phone": "(11) 98765-4321",
+    "address": "Av. Paulista, 1000 - Bela Vista",
+    "city": "São Paulo",
+    "state": "SP",
+    "logoUrl": "",
+    "createdAt": "2026-07-02T21:56:37.284Z",
+    "taxConfig": {
+      "regime": "SIMPLES",
+      "icmsAliquota": 4,
+      "icmsStAliquota": 0,
+      "ipiAliquota": 2,
+      "pisAliquota": 0.65,
+      "cofinsAliquota": 3,
+      "issAliquota": 2
+    }
+  },
+  {
+    "id": "company_1783036432497_scgb5",
+    "name": "roupas",
+    "ownerEmail": "xboxcarioca@gmail.com",
+    "createdAt": "2026-07-02T23:53:52.497Z",
+    "taxConfig": {
+      "regime": "SIMPLES",
+      "icmsAliquota": 4,
+      "icmsStAliquota": 0,
+      "ipiAliquota": 0,
+      "pisAliquota": 0,
+      "cofinsAliquota": 0,
+      "issAliquota": 0
+    }
+  },
+  {
+    "id": "company_1783036728061_fvqeo",
+    "name": "roupas",
+    "ownerEmail": "vendas.nolla@gmail.com",
+    "createdAt": "2026-07-02T23:58:48.061Z",
+    "taxConfig": {
+      "regime": "SIMPLES",
+      "icmsAliquota": 4,
+      "icmsStAliquota": 0,
+      "ipiAliquota": 0,
+      "pisAliquota": 0,
+      "cofinsAliquota": 0,
+      "issAliquota": 0
+    }
+  },
+  {
+    "id": "company_1783039020191_p7jpz",
+    "name": "Test Company",
+    "ownerEmail": "test_1783039020082@test.com",
+    "createdAt": "2026-07-03T00:37:00.191Z",
+    "taxConfig": {
+      "regime": "SIMPLES",
+      "icmsAliquota": 4,
+      "icmsStAliquota": 0,
+      "ipiAliquota": 0,
+      "pisAliquota": 0,
+      "cofinsAliquota": 0,
+      "issAliquota": 0
+    }
+  },
+  {
+    "id": "company_1783039034506_o6zgv",
+    "name": "Test Company",
+    "ownerEmail": "test_1783039034427@test.com",
+    "createdAt": "2026-07-03T00:37:14.506Z",
+    "taxConfig": {
+      "regime": "SIMPLES",
+      "icmsAliquota": 4,
+      "icmsStAliquota": 0,
+      "ipiAliquota": 0,
+      "pisAliquota": 0,
+      "cofinsAliquota": 0,
+      "issAliquota": 0
+    }
+  }
+]

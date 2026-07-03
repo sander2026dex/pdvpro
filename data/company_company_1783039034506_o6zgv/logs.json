@@ -1,0 +1,24 @@
+[
+  {
+    "id": "log_1783039034520_ggrpy",
+    "companyId": "company_1783039034506_o6zgv",
+    "userId": "user_1783039034506_rwmqe",
+    "userName": "Test User",
+    "action": "Login",
+    "details": "Login realizado com sucesso no sistema.",
+    "ip": "127.0.0.1",
+    "device": "node",
+    "createdAt": "2026-07-03T00:37:14.520Z"
+  },
+  {
+    "id": "log_1783039034507_ue3p7",
+    "companyId": "company_1783039034506_o6zgv",
+    "userId": "user_1783039034506_rwmqe",
+    "userName": "Test User",
+    "action": "Cadastro Empresa",
+    "details": "Empresa Test Company e usuário administrador cadastrados.",
+    "ip": "127.0.0.1",
+    "device": "node",
+    "createdAt": "2026-07-03T00:37:14.507Z"
+  }
+]

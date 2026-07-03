@@ -1,0 +1,8 @@
+{
+  "name": "Sistema PDV e ERP Profissional Multiempresa",
+  "description": "Sistema ERP + PDV completo, rápido e responsivo, com controle multiempresa lógico, emissão de orçamentos estruturados, motor tributário configurável, fluxo financeiro de caixa, controle de estoque e backup documental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
